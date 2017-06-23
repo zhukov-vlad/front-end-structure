@@ -1,3 +1,18 @@
+
+
+/**
+ * @ngdoc module
+ * @name myApp.components.accordion
+ */
+
+/**
+ * @ngdoc directive
+ * @name accordion
+ * @module myApp.components.accordion
+ * @description
+ * Accordion
+ */
+
 (function() {
   'use strict';
 
